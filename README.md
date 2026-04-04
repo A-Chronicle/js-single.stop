@@ -1,2 +1,2 @@
-# JS--it-s-all-you-need
+# JS-single.stop
 A code repo for javascript.
