@@ -6,3 +6,4 @@
 
 
 //Primitive - 7 types(String,number , boolean, null,undefined,symbol,bigInt)
+// Non-Primitive or Reference = (Array , objects , functions)
