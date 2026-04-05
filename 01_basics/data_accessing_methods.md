@@ -43,7 +43,7 @@ console.log(b);
 
 ---
 
-## 2. Call by Reference
+## 2. Call by Reference 
 
 Let's say we have an object stored in the variable `a`. The variable stores the location or the address where the object lives. Now we set `b = a`. Now that new variable `b`, instead of pointing to a new location in memory, points to the **same location** where `a` does. No new object is created, and no copy is made. Both variables point to the same object — this is like having 2 names for the same thing.
 
